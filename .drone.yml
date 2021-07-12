@@ -3,7 +3,3 @@ kind: pipeline
 type: docker
 name: default
 
-class Request {
-  event: Event;
-  user: User;
-}
